@@ -1,0 +1,12 @@
+*{
+	background-color:black;
+}
+
+#playCanvas{
+	background-color:black;
+}
+
+#container{
+	margin:0 auto;
+	width: 500px;
+}
